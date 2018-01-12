@@ -1,0 +1,15 @@
+body {
+	background: #CCCCCC;
+}
+
+#kartka {
+	background: white;
+	width: 80%;
+	min-height: 150%;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 10px 10px 10px;
+	font-family: 'Roboto Mono';
+}
+
