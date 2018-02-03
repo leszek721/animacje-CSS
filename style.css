@@ -25,7 +25,10 @@ body {
 	padding-right: 3%;
 }
 
-main {
-	font-family: 'Courgette';
+li {
+	font-weight: bold;
 }
 
+p {
+	font-weight: normal;
+}
