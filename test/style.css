@@ -1,0 +1,23 @@
+div {
+	transition: all .5s linear;
+}
+
+.jeden div:hover {
+	background: red;
+	font-size: 100px;
+}
+
+.dwa div:hover {
+	background: red;
+	font-size: 100px;
+}
+
+.jeden div:hover:nth-child(2) {
+	background: green;
+	font-size: 100px;
+}
+
+.dwa div:hover:nth-child(1) {
+	background: green;
+	font-size: 100px;
+}
